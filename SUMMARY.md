@@ -1,4 +1,0 @@
-# Summary
-
-* [Welcome](welcome.md)
-
