@@ -5,5 +5,5 @@
 * [Té](tea.md)
    * [maceta](pot.md)
    * azúcar
-   * taza
+   * [taza](taza.md)
 
