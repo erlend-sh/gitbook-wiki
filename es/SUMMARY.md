@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Welcome](welcome.md)
-* [Té](tea)
+* [Té](tea.md)
    * [maceta](pot.md)
    * azúcar
    * taza
