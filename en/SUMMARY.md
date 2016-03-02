@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Welcome](welcome.md)
-* Tea
+* [Tea](tea.md)
 
