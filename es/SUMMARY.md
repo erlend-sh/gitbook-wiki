@@ -4,6 +4,6 @@
 * [Welcome](welcome.md)
 * [Té](tea.md)
    * [maceta](pot.md)
-   * azúcar
+   * [azúcar](sugar.md)
    * [taza](taza.md)
 
