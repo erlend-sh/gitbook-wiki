@@ -5,5 +5,5 @@
 * [Tea](tea.md)
    * [pot](pot.md)
    * [sugar](sugar.md)
-   * [cup.md](cup.md)
+   * [cup](cup.md)
 
