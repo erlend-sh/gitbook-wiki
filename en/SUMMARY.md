@@ -4,6 +4,6 @@
 * [Welcome](welcome.md)
 * [Tea](tea.md)
    * [pot](pot.md)
-   * [sugar.md](sugar.md)
+   * [sugar](sugar.md)
    * [cup.md](cup.md)
 
