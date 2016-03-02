@@ -1,1 +1,1 @@
-English content in here yo.
+English content in here yo. But, what's going on with that other readme?
