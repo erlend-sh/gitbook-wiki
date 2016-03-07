@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Welcome](welcome.md)
-   * Coffee
+   * [Coffee](coffee.md)
 * [Tea](tea.md)
    * [pot](pot.md)
    * [sugar](sugar.md)
